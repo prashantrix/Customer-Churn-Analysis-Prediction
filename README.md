@@ -1,8 +1,8 @@
-📊 Customer Churn Analysis Dashboard
+# **📊 Customer Churn Analysis Dashboard**
 
 A data-driven deep dive into customer behavior, churn patterns, and retention insights — built with ruthless clarity and zero sugarcoating.
 
-🚀 Overview
+##🚀 Overview
 
 This project analyzes customer churn patterns using a telecom dataset of 7,043 customers.
 The goal was simple: expose the truth behind why customers leave and visualize the patterns through powerful dashboards.
@@ -27,7 +27,7 @@ The results are uncomfortable but necessary — churn isn’t random.
 It’s predictable.
 And avoidable.
 
-🧠 Key Insights
+##🧠 Key Insights
 🔥 1. Churn Rate: 27%
 
 A massive red flag for any subscription business.
@@ -52,20 +52,20 @@ Premium service does not guarantee premium loyalty.
 
 Patterns, not demographics, reveal the real story.
 
-🛠️ Tech Stack
+##🛠️ Tech Stack
 
 Excel
 
 Power BI 
 
 
-📊 Dashboard Preview
+##📊 Dashboard Preview
 <img width="1317" height="738" alt="Screenshot 2025-12-02 144506" src="https://github.com/user-attachments/assets/1ffb297d-9ed6-4015-885b-94fab1d31bcb" />
+
 <img width="1316" height="733" alt="Screenshot 2025-12-02 144447" src="https://github.com/user-attachments/assets/55c6ccfa-f641-4846-bdcd-4bb8dbf5a61a" />
 
 
-🧩 Features
-
+##🧩 Features
 ✔️ End-to-end exploration of churn patterns
 ✔️ Clear visual breakdown of risk factors
 ✔️ Actionable insights for retention strategy
@@ -74,15 +74,14 @@ Power BI
 
 
 
-💡 Why This Project Matters
-
+##💡 Why This Project Matters
 Churn kills businesses silently.
 But churn is predictable — if you bother to look.
 
 This dashboard turns raw data into a story:
 who leaves, why they leave, and what you can do about it.
 
-🤝 Contributions
+##🤝 Contributions
 
 Feedback, forks, and improvements are welcome.
 
