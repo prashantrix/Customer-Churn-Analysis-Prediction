@@ -60,9 +60,9 @@ Power BI
 
 
 ## 📊 Dashboard Preview
-<img width="1317" height="738" alt="Screenshot 2025-12-02 144506" src="https://github.com/user-attachments/assets/1ffb297d-9ed6-4015-885b-94fab1d31bcb" />
-
 <img width="1316" height="733" alt="Screenshot 2025-12-02 144447" src="https://github.com/user-attachments/assets/55c6ccfa-f641-4846-bdcd-4bb8dbf5a61a" />
+
+<img width="1317" height="738" alt="Screenshot 2025-12-02 144506" src="https://github.com/user-attachments/assets/1ffb297d-9ed6-4015-885b-94fab1d31bcb" />
 
 
 ## 🧩 Features
